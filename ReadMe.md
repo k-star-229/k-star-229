@@ -1,3 +1,4 @@
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">Top Rated Plus Full-Stack Engineer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Competitive+Programmer;Ruby+on+Rails;Node%20|%20Django%20|%20Laravel%20;Specialist%20on%20Codeforces;Blockchain+Technology;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
