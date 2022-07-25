@@ -8,9 +8,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=lightning-top&label=Profile%20views&color=0e75b6&style=plastic" alt="lightning-top" /> 
-	<a href = "https://commits.top/singapore.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="lightning-top" target="_blank"/> 
-	</a>
 </p>
 
 
@@ -21,7 +18,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with Me
 <p align="center">
 	<a href="mailto:superhollywood0229@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/lightning-top"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -39,16 +36,20 @@
 
 <p align="center">
   &emsp;
-  <a href="https://www.w3schools.com/nodejs/" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/Php%20-%2300599C.svg?style=plastic&logo=php%2B%2B&logoColor=white">
+  <a href="https://laravel.com/docs/7.x" target="_blank"> 
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23F05033.svg?style=plastic&logo=laravel&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> 
+     <img alt="Node" src="https://img.shields.io/badge/Node%20-%23F7DF1E.svg?style=plastic&logo=node.js&logoColor=black">
    </a>
+   &emsp;
+  <a href="https://ruby-doc.org/" target="_blank"> 
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23F00000.svg?style=plastic&logo=ruby&logoColor=white">
+  </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?style=plastic&logo=python&logoColor=white">
+  <a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> 
+    <img alt="Django" src="https://img.shields.io/badge/Django-%23007396.svg?style=plastic&logo=django&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.solidity.org" target="_blank">
@@ -65,7 +66,7 @@
   &emsp; 
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> 
    <img alt="React" src="https://img.shields.io/badge/React%20-%230059CC.svg?style=plastic&logo=react&logoColor=white">
-  </a> 
+  </a>
   &emsp; 
   <a href="https://nextjs.org/docs" target="_blank"> 
    <img alt="Next" src="https://img.shields.io/badge/Next%20-%23111111.svg?style=plastic&logo=next.js&logoColor=white">
@@ -73,7 +74,11 @@
   &emsp; 
   <a href="https://vuejs.org/guide/introduction.html" target="_blank"> 
    <img alt="Vue" src="https://img.shields.io/badge/Vue%20-%2334A853.svg?style=plastic&logo=vue.js&logoColor=white">
-  </a>    
+  </a>
+  &emsp;
+  <a href="https://threejs.org/docs/" target="_blank"> 
+    <img alt="Three" src="https://img.shields.io/badge/ThreeJs%20-%23000012.svg?style=plastic&logo=three.js&logoColor=white">
+  </a>  
   &emsp;
   <a href="https://sass-lang.com/documentation/" target="_blank">
     <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23FF69B4.svg?style=plastic&logo=sass&logoColor=white">
@@ -81,6 +86,10 @@
   &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/TailwindCSS%20-%231572B6.svg?style=plastic&logo=tailwindcss&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://web3js.readthedocs.io/" target="_blank"> 
+    <img alt="Web3" src="https://img.shields.io/badge/Web3%20-%23F05033.svg?style=plastic&logo=web3.js&logoColor=white">
   </a>
 </p>
 
@@ -141,13 +150,15 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
+  <a href="#"><img src="https://img.shields.io/badge/Android-%2311AA44.svg?style=plastic&&logo=android&logoColor=white" /></a>	 
+  &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
 </p>
 
 <br/>
@@ -171,7 +182,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lightning-top"><img alt="lightning-top's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lightning-top&custom_title=lightning-top's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/lightning-top"><img alt="LIGHTNING-top's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lightning-top&custom_title=lightning-top's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -182,6 +193,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightning-top&layout=compact&theme=algolia" alt="lightning-top" /></a> </p>
 
 -----
-Credits: [lightning-top](https://github.com/lightning-top)
+Credits: [LIGHTNING-top](https://github.com/lightning-top)
 
-Last Edited on: 10/02/2022
+Last Edited on: 29th Feb 2020
