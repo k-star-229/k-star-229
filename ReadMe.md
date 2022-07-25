@@ -1,6 +1,6 @@
 <h1 align="center">Top Rated Plus Full-Stack Engineer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Competitive+Programmer;Ruby+on+Rails;DS%20|%20Node%20|%20Django%20|%20Laravel%20;Specialist%20on%20Codeforces;Blockchain+Technology;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Competitive+Programmer;Ruby+on+Rails;Node%20|%20Django%20|%20Laravel%20;Specialist%20on%20Codeforces;Blockchain+Technology;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
