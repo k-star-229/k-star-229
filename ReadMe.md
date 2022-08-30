@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=k-star-229&label=Profile%20views&color=0e75b6&style=plastic" alt="k-star-229" /> 
+	<img src="https://komarev.com/ghpvc/?username=k-star-229&label=Profile%20views&color=0e75b6&style=plastic" alt="k-star-229" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/k-star-229?label=Followers&style=social">    
   <img src="https://img.shields.io/github/stars/k-star-229?label=Stars" alt="Total Stars">
 </p>
@@ -211,6 +211,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Credits: [LIGHTNING-top](https://github.com/k-star-229)
+Credits: [k-star-229](https://github.com/k-star-229)
 
 Last Edited on: 29th Feb 2020
